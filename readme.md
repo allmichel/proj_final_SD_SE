@@ -97,7 +97,7 @@ AGORA BASTA VOCÊ USAR O SEU CHAT ;)
 - Python. Select — Waiting for I/O completion. Disponível em: <https://docs.python.org/3.11/library/select.html#module-select>. Acesso em: 25 jun. 2023
 
 ## Autores
-Este projeto foi feito por uma quipe de alunos da UFC - Universidade Federal do Ceará responsáveis por realizar o projeto final das Disciplinas de Sistemas Embarcados e Sistemas Distribídos. Ambas ministradas pelo [Prof. Juan Sebastian Toquica Arenas](https://www.linkedin.com/in/jstoquica/).
+Este projeto foi feito por uma equipe de alunos da UFC - Universidade Federal do Ceará responsáveis por realizar o projeto final das Disciplinas de Sistemas Embarcados e Sistemas Distribídos. Ambas ministradas pelo [Prof. Juan Sebastian Toquica Arenas](https://www.linkedin.com/in/jstoquica/).
 
 - [Allan Michel](https://www.linkedin.com/in/allmichel/)
 - [Antonio Filipe](https://github.com/sousafilp)
