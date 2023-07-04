@@ -2,7 +2,7 @@
 # Chat cliente/servidor com Python
 
 
-Este projeto foi criado para a disciplina de Sistemas Dsitribuídos e Sistemas Embarcados pela UFC, com foco em criar um chat entre 2 clientes usando um raspberry Pi como servidor em python.
+Este projeto foi criado para a disciplina de Sistemas Distribuídos e Sistemas Embarcados pela UFC, com foco em criar um chat entre 2 clientes usando um raspberry Pi como servidor em python.
 
 ![ufc](https://upload.wikimedia.org/wikipedia/commons/c/ce/Brasaoufc_horizontal.png)
 
